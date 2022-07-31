@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyDictionary/static/css/main.efcd06cb.css",
+    "main.js": "/MyDictionary/static/js/main.fa52815a.js",
+    "static/js/787.0662e7d7.chunk.js": "/MyDictionary/static/js/787.0662e7d7.chunk.js",
+    "index.html": "/MyDictionary/index.html",
+    "main.efcd06cb.css.map": "/MyDictionary/static/css/main.efcd06cb.css.map",
+    "main.fa52815a.js.map": "/MyDictionary/static/js/main.fa52815a.js.map",
+    "787.0662e7d7.chunk.js.map": "/MyDictionary/static/js/787.0662e7d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efcd06cb.css",
+    "static/js/main.fa52815a.js"
+  ]
+}
