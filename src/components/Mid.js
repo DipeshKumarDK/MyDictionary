@@ -32,7 +32,7 @@ function Mid() {
   }, [word]);
 
   return (
-    <div className="pt-10 md:pl-36 md:pr-36 sm:pr-16 sm:pl-16 pl-4 pr-4 bg-cyan-900 pb-10">
+    <div className="pt-10 md:pl-36 md:pr-36 sm:pr-16 sm:pl-16 h-screen pl-4 pr-4 bg-cyan-900 pb-10">
       <div className="flex flex-row justify-center items-center">
         <div className="text-2xl lg:text-6xl md:text-4xl sm:text-3xl font-light text-white">
           {data[0]?.word?data[0]?.word.toUpperCase():"YOUR WORD"}
