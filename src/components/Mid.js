@@ -46,7 +46,7 @@ function Mid() {
         ></input>
         <img
           src="https://cdn.pixabay.com/photo/2021/10/11/00/59/search-6699087__340.png"
-          className="h-10 ml-1 border-0 rounded w-12 bg-white"
+          className="h-10 ml-1 cursor-pointer border-0 rounded w-12 bg-white"
           alt=""
           onClick={handleInputs}
         />
